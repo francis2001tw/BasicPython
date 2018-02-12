@@ -8,3 +8,10 @@ print(6 / 4)
 print(7 ** 2)
 print(8 // 5)
 print(9 % 3)
+
+# [POINT 2]
+a = 10
+b = 20
+print(a)
+
+print(a == b)
