@@ -10,6 +10,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pip.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/06_Module/03_PIP/pip.py">
@@ -22,6 +25,7 @@
         </entry>
       </file>
     </leaf>
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,11 +99,24 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="62" />
+=======
+  <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="140" />
+    <option name="y" value="43" />
+    <option name="width" value="1682" />
+    <option name="height" value="916" />
+=======
+    <option name="x" value="5" />
+    <option name="y" value="54" />
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
     <option name="width" value="1533" />
     <option name="height" value="926" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -116,13 +133,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+<<<<<<< HEAD
+      <pane id="Scratches" />
+      <pane id="Scope" />
+=======
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SourceCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
             </path>
             <path>
               <item name="SourceCode" type="b2602c69:ProjectViewProjectNode" />
@@ -155,14 +182,27 @@
             <path>
               <item name="SourceCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="SourceCode" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="06_Module" type="462c0819:PsiDirectoryNode" />
               <item name="03_PIP" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="02_Flow Control" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Conditional" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,8 +236,17 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.pip">
+=======
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.try-except">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.operators">
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
     <configuration name="comment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -251,43 +300,92 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="testPackage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="indent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Basic Concepts/03_Operators" />
+=======
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Module/02_Package" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Basic Concepts/01_Indent" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BasicPython" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Basic Concepts/03_Operators/operators.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="C:\Users\frank\Dropbox\Note\Python Curriculum_01_Basic Python\CLASS\BasicPython\06_Module\02_Package\package.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Basic Concepts/01_Indent/indent.py" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="pip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< HEAD
+    <configuration name="try-except" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Module/03_PIP" />
+=======
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_Exception/01_Try" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Basic Concepts/03_Operators" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="BasicPython" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Module/03_PIP/pip.py" />
+=======
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Exception/01_Try/try-except.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Basic Concepts/03_Operators/operators.py" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
+<<<<<<< HEAD
       <item index="0" class="java.lang.String" itemvalue="Python.operators" />
       <item index="1" class="java.lang.String" itemvalue="Python.if" />
       <item index="2" class="java.lang.String" itemvalue="Python.indent" />
@@ -301,6 +399,37 @@
         <item index="2" class="java.lang.String" itemvalue="Python.comment" />
         <item index="3" class="java.lang.String" itemvalue="Python.indent" />
         <item index="4" class="java.lang.String" itemvalue="Python.if" />
+=======
+<<<<<<< HEAD
+      <item index="0" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="1" class="java.lang.String" itemvalue="Python.testPackage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.package" />
+      <item index="3" class="java.lang.String" itemvalue="Python.encapsulation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.try-except" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.try-except" />
+        <item index="1" class="java.lang.String" itemvalue="Python.encapsulation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.package" />
+        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+        <item index="4" class="java.lang.String" itemvalue="Python.testPackage" />
+=======
+      <item index="0" class="java.lang.String" itemvalue="Python.defining function" />
+      <item index="1" class="java.lang.String" itemvalue="Python.operators" />
+      <item index="2" class="java.lang.String" itemvalue="Python.if" />
+      <item index="3" class="java.lang.String" itemvalue="Python.indent" />
+      <item index="4" class="java.lang.String" itemvalue="Python.comment" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.operators" />
+        <item index="1" class="java.lang.String" itemvalue="Python.comment" />
+        <item index="2" class="java.lang.String" itemvalue="Python.indent" />
+        <item index="3" class="java.lang.String" itemvalue="Python.if" />
+        <item index="4" class="java.lang.String" itemvalue="Python.defining function" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       </list>
     </recent_temporary>
   </component>
@@ -321,13 +450,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+=======
+<<<<<<< HEAD
+    <frame x="140" y="43" width="1682" height="916" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15875912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42430705" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="5" y="54" width="1533" height="926" extended-state="0" />
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1381748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42352185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42362526" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -372,6 +518,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/01_Native Data Type/06_String/string.py" />
+    <entry file="file://$PROJECT_DIR$/01_Native Data Type/07_Tuple/tuple.py" />
+    <entry file="file://$PROJECT_DIR$/01_Native Data Type/08_Operators/operators.py" />
+=======
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
+    <entry file="file://$PROJECT_DIR$/03_Data Structure/01_List/increment operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 3b63ec29a57ad633c38447582f6833ae7c9f7a79
     <entry file="file://$PROJECT_DIR$/03_Data Structure/01_List/decrement operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -577,6 +739,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="6" column="9" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+<<<<<<< HEAD
+=======
         </state>
       </provider>
     </entry>
@@ -584,6 +748,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="14" />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
         </state>
       </provider>
     </entry>
@@ -601,6 +766,19 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/05_Class/04_Polymorphism/polymorphism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_Exception/01_Try/try-except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+=======
     <entry file="file://$PROJECT_DIR$/08_Exception/01_Try/try-except.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -658,6 +836,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
           <folding />
+>>>>>>> 111b50d76752612f667bd7d48921878604133605
         </state>
       </provider>
     </entry>
